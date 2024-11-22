@@ -37,7 +37,7 @@ Deployment
 
 The application is live! 🎉
 
-Link: 
+Link: https://github.com/kotigopinedi/weather-now
 
 
 How It Works
